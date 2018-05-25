@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Behera 107117039
+=======
+//Dwitikrushna 107117039
+>>>>>>> new_branch
 //fav_sorting_algorithm
 
 #include <iostream>
